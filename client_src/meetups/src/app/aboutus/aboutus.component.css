@@ -1,0 +1,8 @@
+.card{
+    height: 600px;
+    width: 400px;
+}
+
+.container{
+border-block-end: 5px;
+}
